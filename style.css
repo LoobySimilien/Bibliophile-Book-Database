@@ -1,0 +1,17 @@
+body {
+ background-image: url("https://i2.wp.com/mybrownbaby.com/wp-content/uploads/2014/04/Black-Excellence.jpg");
+ background-color: #cccccc;
+}
+
+#mainPage {
+  display: none;
+  background-color: coral;
+}
+
+.book{
+  height: 200px;
+	width: 30%;
+	display: inline-block;
+	border: solid 3px green;
+	text-align: center;
+}
